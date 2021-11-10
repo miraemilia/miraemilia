@@ -8,7 +8,6 @@ One of my favorite places in my home town, Lahti - The Linnaistensuo Mire
 
 I'm currently learning:
   - full stack development (<a href="https://fullstackopen.com/en/">Full Stack Open MOOC</a>)
-  - Python (<a href="https://tira.mooc.fi/syksy-2021/">Tietorakenteet ja algoritmit MOOC</a>)
   
  # 
  
@@ -31,6 +30,6 @@ I'm currently learning:
  
  #
  
- I have an MA in General linguistics and I'm specialized in writing system theory. I have at least some knowledge of about 20+ natural languages and 2 constructed languages.
+ Fun fact: I have at least some knowledge of about 20+ natural languages and 2 constructed languages.
  
  

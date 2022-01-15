@@ -13,7 +13,6 @@ I'm currently learning:
  
  Ideas for programming projects:
  - a web app using the bicycle counter API in Lahti
- - an app for keeping track of your vegetable intake
  
  #
  

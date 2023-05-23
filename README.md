@@ -8,13 +8,9 @@ One of my favorite places in my home town, Lahti - The Linnaistensuo Mire
 
 I'm currently learning:
   - full stack development (<a href="https://fullstackopen.com/en/">Full Stack Open MOOC</a>)
+  - Ohjelmistotestauksen periaatteet (FITech)
   
  # 
- 
- Ideas for programming projects:
- - a web app using the bicycle counter API in Lahti
- 
- #
  
  Technologies I have experience with:
  
@@ -23,9 +19,6 @@ I'm currently learning:
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- 
- Markup languages:
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  
  Frameworks and libraries:
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,6 +33,10 @@ I'm currently learning:
  Testing:
  ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+ 
+ Other:
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  
  #
  

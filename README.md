@@ -7,8 +7,7 @@ One of my favorite places in my home town, Lahti - The Linnaistensuo Mire
 #
 
 I'm currently learning:
-  - full stack development (<a href="https://fullstackopen.com/en/">Full Stack Open MOOC</a>)
-  - Ohjelmistotestauksen periaatteet (FITech)
+  - Integrify Full Stack program
   
  # 
  

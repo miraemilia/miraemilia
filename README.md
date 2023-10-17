@@ -8,6 +8,8 @@ One of my favorite places in my home town, Lahti - The Linnaistensuo Mire
 
 I'm currently learning:
   - Integrify Full Stack program
+    - Front end: JavaScript, React, Redux, MUI
+    - Back end: C#
   
  # 
  
